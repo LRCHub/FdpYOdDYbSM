@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "夢は何度も生まれ変わる",
+  "base_artist": "NO NAME",
+  "createdAt": "2026-02-15T16:11:32.370805Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢は何度も生まれ変わる(off vocal)",
+      "artist": "动漫原声",
+      "has_synced": true,
+      "path": "select/01_夢は何度も生まれ変わる(off_vocal)_动漫原声.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢は何度も生まれ変わる",
+      "artist": "NO NAME",
+      "has_synced": true,
+      "path": "select/02_夢は何度も生まれ変わる_NO_NAME.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢は何度も生まれ変わる (off vocal ver.)",
+      "artist": "NO NAME",
+      "has_synced": true,
+      "path": "select/03_夢は何度も生まれ変わる_(off_vocal_ver.)_NO_NAME.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢は何度も生まれ変わる",
+      "artist": "NO NAME",
+      "has_synced": false,
+      "path": "select/pl_01_夢は何度も生まれ変わる_NO_NAME.txt"
+    }
+  ]
+}
